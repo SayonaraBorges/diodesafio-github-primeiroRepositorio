@@ -1,0 +1,29 @@
+comandos bácicos
+
+cmd
+dir
+ls
+cd
+cd..
+cls
+clear
+tecla tab
+mkdir
+echo hello
+del 
+rmdir
+git int
+.git
+git commit -m ""
+git add
+git add *
+git status
+git config
+git config --list
+git config --global --unset
+git congig --global user.email
+git config --global user.name
+git remote add origin -> link
+git remote -v
+git push origin master
+git pull
